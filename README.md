@@ -12,7 +12,7 @@
 
 - Sou graduando de matemática aplicada pela [FGV-EMAp](https://emap.fgv.br/)
 - Atualmente fazendo projeto de pesquisa na área da ortopedia
-- Interessado em me aperfeiçoar Python, SciLab, $\LaTeX$ e mais
+- Interessado em me aperfeiçoar em Python, SciLab, $\LaTeX$ e mais
 
 
 
