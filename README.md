@@ -1,18 +1,22 @@
 ## Hi, Lucas here
 🇧🇷
 
-- I'm an Applied Mathematics undergraduate student at [FGV-EMAp](https://emap.fgv.br/)
-- Currently working on some research in orthopedics
-- Interested in learning more about Python, SciLab, $\LaTeX$ and more
+- Recently graduated in Applied Mathematics from [FGV-EMAp](https://emap.fgv.br/)
+- Currently pursuing an MSc in Applied Mathematics and Data Science at [FGV-EMAp](https://emap.fgv.br/)
+- Conducting research in pervasive health.
+- Interested in deepening my knowledge of machine learning.
+- Recently switched from  for Typst!
 
 <hr/>
 
 ## Oi, Lucas aqui
 🇧🇷
 
-- Sou graduando de matemática aplicada pela [FGV-EMAp](https://emap.fgv.br/)
-- Atualmente fazendo projeto de pesquisa na área da ortopedia
-- Interessado em me aperfeiçoar em Python, SciLab, $\LaTeX$ e mais
+- Recém-graduado em Matemática Aplicada pela [FGV-EMAp](https://emap.fgv.br/)
+- Atualmente cursando o Mestrado em Matemática Aplicada e Ciência de Dados na [FGV-EMAp](https://emap.fgv.br/)
+- Realizando pesquisa em saúde pervasiva.
+- Interessado em aprofundar meus conhecimentos em aprendizado de máquina.
+- Recentemente troquei $\LaTeX$ por Typst.
 
 
 
